@@ -6,5 +6,5 @@
 ## activate your virtual environment
 •	env\Script\Activate
 
-### install requirement file 
+## install requirement file 
 •	pip install -r requirements.txt
